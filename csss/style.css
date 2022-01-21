@@ -1,0 +1,19 @@
+.pand-bg-info{
+    background-color: #FEEAE9;
+}
+.button-color{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+   color: white;
+   border: none;
+   border-radius: 8px;
+   padding: 9px 25px;
+}
+.pand-bg-color{
+    background-color: #FF589B;
+}
+.panda-shoes-color{
+    background-color: #4289FF;
+}
+.photos img {
+    width: 150px;
+}
